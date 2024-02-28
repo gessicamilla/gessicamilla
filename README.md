@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicamilla&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maysa502&bg_color=0d1117&color=fafafa&line=6b8e23&point=0c3b12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gessicamilla&bg_color=0d1117&color=fafafa&line=6b8e23&point=0c3b12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
@@ -29,7 +29,7 @@
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fallsmeii}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gessicamilla}/count.svg" /></p> 
 <br>
 </div>
 
