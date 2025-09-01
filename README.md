@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gessicamilla&show_icons=true&count_private=true&hide_border=true&title_color=6B8E23&icon_color=6B8E23&text_color=DFECDF&bg_color=0d1117" alt="Géssica Camilla github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicamilla&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicamilla&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=8B0000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gessicamilla&bg_color=0d1117&color=fafafa&line=6b8e23&point=0c3b12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
