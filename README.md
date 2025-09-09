@@ -1,37 +1,90 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+# 👩🏻‍💻 Géssica Rodrigues
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Géssica+Camilla;I'm+22+years+old;I'm+from+Brazil;☆+Be+Welcome!+☆)](https://git.io/typing-svg)
-##
+**`Estudante`**
 
+🎓 Estudante de Ciência da Computação na UNICID  
+💻 Técnica em Informática formada pelo Senac  
+📍 São Paulo | 23 anos     
+📚 Perfil criado apenas para estudos  
 
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gessicamilla&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=DFECDF&bg_color=0d1117" alt="Géssica Camilla github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicamilla&layout=compact&hide_border=true&title_color=8B0000&text_color=DFECDF&bg_color=0d1117" />
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gessicamilla&bg_color=0d1117&color=fafafa&line=8B0000&point=8B0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
-  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gessicamilla&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="center"> 
-<a href = "mailto:gessicacamillaaraujo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=darkred" target="_blank"></a>
-<a href="(https://www.linkedin.com/in/gessicacamilla/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=darkred" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicamilla&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-##
-
-### Studying in this moment:
-
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-Lin-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gessicamilla}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+</p>
